@@ -1,0 +1,44 @@
+                                       PYTHON  ASSIGNMENT
+
+                                                                          Bhuma pujith reddy, B2 
+                                                                          321910302017                                
+                                                         
+1  What is python language?
+   Python is an interpreted, high-level, general purpose programming language 
+
+2  What are the key features of python?
+   *simple
+   *easy to learn
+   *portable
+   *object oriented
+   *extensible
+   *scalable
+   *interpreted
+   *high level language
+
+3  How is python an interpreted language?
+   Python is called an interpreted language because it goes through an interpreter, which turns     code you write into the language understood by your computer's processor.
+
+4  How is memory managed in python?
+   Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+
+5  What is python path?
+   Python path is an environment variable which you can set to add additional directories where python will look for modules and packages. For most installations, you should not set these variables since they are not needed for Python to run. Python knows where to find its standard library.
+
+6  What are the generators in python?
+   Generators are used to create iterators, but with a different approach. Generators are simple functions which return an iterable set of items, one at a time, in a special way. When an iteration over a set of item starts using the for statement, the generator is run.
+
+7  Does python have oops concept?
+   Python OOPs Concepts. Python is an object-oriented programming language. ... along with the Object oriented programming features such as inheritance, polymorphism, abstraction, encapsulation.
+
+8  Is python case sensitive?
+   Python is a case-sensitive language. This means, Variable and variable are not the same. Always give the identifiers a name that makes sense.
+
+9  How long can an identifier be in python?
+   79 characters
+
+10 With python how do you find out which directory you are currently in?
+   To find out which directory in python you are currently in, use the getcwd() method. Cwd is for current working directory in python. This returns the path of the current python directory as a string in Python.
+
+
+
